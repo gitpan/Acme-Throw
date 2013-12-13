@@ -5,4 +5,6 @@ Makefile.PL
 README
 dist.ini
 lib/Acme/Throw.pm
+t/lib/Capture/Tiny.pm
+t/lib/IO/String.pm
 t/simple.t
